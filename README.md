@@ -2,4 +2,4 @@
 
 Access panel demo
 
-http://johanneshilden.github.io/demopanel
+http://laserpants.github.io/demopanel
